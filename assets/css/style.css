@@ -12,7 +12,7 @@
 
 body {
     /* background-color: #f5f5f5; */
-    background: url('/assets/img/background.jpg') top center / cover no-repeat;
+    background: url('../assets/img/background.jpg') top center / cover no-repeat;
 }
 
 html {
